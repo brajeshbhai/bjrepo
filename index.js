@@ -1,1 +1,3 @@
-console.log("hello");
+var i=0;
+
+console.log(i+3);
